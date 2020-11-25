@@ -1,4 +1,6 @@
 # odinson
+My name is Nick
+
 study
 
-My furst commit
+My first commit
